@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+About me
+===
 
-You can use the [editor on GitHub](https://github.com/siddharthvipul1/vsiddhar/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+* [Ambassador](https://fedoraproject.org/wiki/Ambassadors) @ Fedora Project
+    - feel free to reach out if you want to know more about Fedora project.
+* Storyteller @ Fedora (APAC)
+    - feel free to let me know if you did something Fedora related, I would love to bring it in attention of community.
+    - please let me know if you have used Fedora APAC budget ;)
+* Wrangler @ Fedora Classroom
+    - If you want to share your expertise/knowledge with people, you know who to contact!
+* [Contributor](https://badges.fedoraproject.org/user/siddharthvipul1) @ Fedora Project
+    - Ping me if you want to know how I started or what have I been up to!
+* [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) enthusiast
+* [Linux](https://www.linux.org/) evangelist
+* Self declared developer and command line hero
+* Interested in Data Science
+* Working @ [Red Hat](https://www.redhat.com/en)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
+## Contact
+* IRC Nick: siddharthvipul@[freenode](http://freenode.net/)
+* Usually I lurk around in: #fedora, #fedora-devel, #fedora-india, #fedora-qa etc
+* Telegram: siddharthvipul
+* Email: 
+  * siddharthvipul1 [at] gmail.com (personal) 
+  * vipul [at] redh@t.com (work)
+* Country: India
+* Region: Bengaluru (follows UTC + 5:30)
+* Languages: English, Hindi & French\*
+* FAS Account: siddharthvipul1
+* Social networks:
+  * Twitter: [siddharthvipul](https://www.twitter.com/siddharthvipul)
+  * GitHub: [siddharthvipul](https://www.github.com/siddharthvipul)
+  * LinkedIn: [siddharthvipul](https://www.linkedin.com/in/siddharthvipul)
+  * Facebook: [siddharthvipul](https://www.fb.com/siddharthvipul)
 
-### Markdown
+---
+## Tools of Choice
+* Editor: [vim](https://www.vim.org/)! [here](https://gist.github.com/siddharthvipul/2279675d3e4f7afae4d96ac4d723c7ef) is my vimrc file
+* Design:
+ * [GIMP](https://www.gimp.org/)
+ * [Inkscape](https://www.inkscape.org)\*
+* DevOps: 
+  * [Git](https://git-scm.com)
+  * [Ansible](https://www.ansible.com)
+  * [Vagrant](https://www.vagrantup.com/)
+  * [Jenkins](https://jenkins.io)\*
+* OS: [Fedora](https://fedoraproject.org)
+* Environment: [GNOME](https://www.gnome.org)
+* Programming language
+ * [Python](https://www.python.org)
+ * [Bash](https://www.gnu.org/software/bash/)
+ * [Go](https://golang.org/)\*
+* irc Client: [weechat](https://weechat.org/)! [here](https://gist.github.com/siddharthvipul/0af9a315d02198bc3cfb7f4eabb1072e) is my weechat.conf file
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/siddharthvipul1/vsiddhar/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+\*: Basic knowledge
