@@ -1,7 +1,7 @@
 About me
 ===
 
-[link](distributed-regression\ #130\ Console\ [Jenkins]_files.html)
+[link](distributed-regression-#130\-Console\-[Jenkins]_files.html)
 
 
 * [Ambassador](https://fedoraproject.org/wiki/Ambassadors) @ Fedora Project
