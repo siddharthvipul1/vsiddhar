@@ -1,58 +1,7 @@
-- job:
-    name: distributed-regression
-    node: regression7
-    description: Run regression with distributed test framework
-    project-type: freestyle
-    concurrent: true
-
-    scm:
-      - git:
-          branches:
-          - $GERRIT_BRANCH
-          refspec: $GERRIT_REFSPEC
-          choosing-strategy: gerrit
-          url: git://review.gluster.org/glusterfs.git
-
-    properties:
-      - discard-after-x:
-          x: 30
-      - one-build-per-node
-
-    parameters:
-      - string:
-          default: refs/heads/master
-          description: 'For review 12345 and patch set 6, this will be
-refs/changes/45/12345/6. Default: Tip of master'
-          name: GERRIT_REFSPEC
-      - string:
-          default: master
-          description: 'Name of the branch you want to build from. We
-usually build from master'
-          name: GERRIT_BRANCH
-      - string:
-          default: '8'
-          description: Number of machines to launch
-          name: MACHINES_COUNT
-
-    builders:
-      - shell: !include-raw: ../scripts/distributed-regression.sh
-
-    triggers:
-      - timed: '0 */12 * * *'
-
-    publishers:
-      - archive:
-          allow-empty: true
-          artifacts: "failed-tests-logs.tgz"
-          only-if-success: true
-
-    wrappers:
-    - timestamps
-    - credentials-binding:
-           - username-password-separated:
-               credential-id: e423d7f9-edaf-45ea-aa8f-9c3f8e6563f1
-               username: USERNAME
-               password: PASSWORD
-           - file:
-               credential-id: http_int_credential
-               variable: LOG_KEY
+<div class="b5 xJNT8d">
+<div class="uyb8Gf">
+<div>
+<div class="F3hlO">- job:<br />&nbsp; &nbsp; name: distributed-regression<br />&nbsp; &nbsp; node: regression7<br />&nbsp; &nbsp; description: Run regression with distributed test framework<br />&nbsp; &nbsp; project-type: freestyle<br />&nbsp; &nbsp; concurrent: true<br /><br />&nbsp; &nbsp; scm:<br />&nbsp; &nbsp; &nbsp; - git:<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; branches:<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - $GERRIT_BRANCH<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; refspec: $GERRIT_REFSPEC<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; choosing-strategy: gerrit<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; url: git://<a href="http://review.gluster.org/glusterfs.git" target="_blank" rel="noreferrer" data-saferedirecturl="https://www.google.com/url?q=http://review.gluster.org/glusterfs.git&amp;source=gmail&amp;ust=1533375507877000&amp;usg=AFQjCNGObWEBv8NdWcJF7TJC345OBQaR2Q">review.gluster.org/glust<wbr />erfs.git</a><br /><br />&nbsp; &nbsp; properties:<br />&nbsp; &nbsp; &nbsp; - discard-after-x:<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; x: 30<br />&nbsp; &nbsp; &nbsp; - one-build-per-node<br /><br />&nbsp; &nbsp; parameters:<br />&nbsp; &nbsp; &nbsp; - string:<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; default: refs/heads/master<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; description: 'For review 12345 and patch set 6, this will be<br />refs/changes/45/12345/6. Default: Tip of master'<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; name: GERRIT_REFSPEC<br />&nbsp; &nbsp; &nbsp; - string:<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; default: master<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; description: 'Name of the branch you want to build from. We<br />usually build from master'<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; name: GERRIT_BRANCH<br />&nbsp; &nbsp; &nbsp; - string:<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; default: '8'<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; description: Number of machines to launch<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; name: MACHINES_COUNT<br /><br />&nbsp; &nbsp; builders:<br />&nbsp; &nbsp; &nbsp; - shell: !include-raw: ../scripts/distributed-regress<wbr />ion.sh<br /><br />&nbsp; &nbsp; triggers:<br />&nbsp; &nbsp; &nbsp; - timed: '0 */12 * * *'<br /><br />&nbsp; &nbsp; publishers:<br />&nbsp; &nbsp; &nbsp; - archive:<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; allow-empty: true<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; artifacts: "failed-tests-logs.tgz"<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; only-if-success: true<br /><br />&nbsp; &nbsp; wrappers:<br />&nbsp; &nbsp; - timestamps<br />&nbsp; &nbsp; - credentials-binding:<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- username-password-separated:<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;credential-id: e423d7f9-edaf-45ea-aa8f-9c3f8e<wbr />6563f1<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;username: USERNAME<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;password: PASSWORD<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- file:<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;credential-id: http_int_credential<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;variable: LOG_KEY</div>
+</div>
+</div>
+</div>
