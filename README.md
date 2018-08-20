@@ -1,8 +1,6 @@
 About me
 ===
 
-[link](jenkins.html)
-
 
 * [Ambassador](https://fedoraproject.org/wiki/Ambassadors) @ Fedora Project
     - feel free to reach out if you want to know more about Fedora project.
