@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on SiddharthVipul</title>
-    <link>http://www.vsiddhar.me/categories/</link>
+    <link>http://vsiddhar.me/categories/</link>
     <description>Recent content in Categories on SiddharthVipul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="http://www.vsiddhar.me/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://vsiddhar.me/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>http://www.vsiddhar.me/categories/development/</link>
+      <link>http://vsiddhar.me/categories/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.vsiddhar.me/categories/development/</guid>
+      <guid>http://vsiddhar.me/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>http://www.vsiddhar.me/categories/golang/</link>
+      <link>http://vsiddhar.me/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.vsiddhar.me/categories/golang/</guid>
+      <guid>http://vsiddhar.me/categories/golang/</guid>
       <description></description>
     </item>
     

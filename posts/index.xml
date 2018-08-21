@@ -2,30 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on SiddharthVipul</title>
-    <link>http://www.vsiddhar.me/posts/</link>
+    <link>http://vsiddhar.me/posts/</link>
     <description>Recent content in Posts on SiddharthVipul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.vsiddhar.me/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://vsiddhar.me/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>first blog</title>
-      <link>http://www.vsiddhar.me/posts/blog-1/</link>
-      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.vsiddhar.me/posts/blog-1/</guid>
-      <description>Post 1 check hello world</description>
-    </item>
     
     <item>
       <title>Learn Markdown</title>
-      <link>http://www.vsiddhar.me/posts/demo_md/</link>
+      <link>http://vsiddhar.me/posts/demo_md/</link>
       <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.vsiddhar.me/posts/demo_md/</guid>
+      <guid>http://vsiddhar.me/posts/demo_md/</guid>
       <description>Style Demo # h1 Heading
 h1 Heading ## h2 Heading
 h2 Heading ### h3 Heading
@@ -42,10 +33,10 @@ _This is italic text_ This is italic text
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>http://www.vsiddhar.me/posts/hugo-template-primer/</link>
+      <link>http://vsiddhar.me/posts/hugo-template-primer/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.vsiddhar.me/posts/hugo-template-primer/</guid>
+      <guid>http://vsiddhar.me/posts/hugo-template-primer/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
