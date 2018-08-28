@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/siddharthvipul
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://vsiddhar.me
+  * I am siddharthvipul (https://keybase.io/siddharthvipul) on keybase.
+  * I have a public key with fingerprint 40B8 536B 3BB1 6882 FF91  C1A4 5053 347C 5A23 0FCD
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101934422d948c6365fdf9bd84d4fb281d993e9a47982022dc5de033517799c59390a",
+      "fingerprint": "40b8536b3bb16882ff91c1a45053347c5a230fcd",
+      "host": "keybase.io",
+      "key_id": "5053347c5a230fcd",
+      "kid": "0101934422d948c6365fdf9bd84d4fb281d993e9a47982022dc5de033517799c59390a",
+      "uid": "97b453740c9e0c046fcf56bbb8a19b19",
+      "username": "siddharthvipul"
+    },
+    "service": {
+      "hostname": "vsiddhar.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1535451212,
+  "expire_in": 157680000,
+  "prev": "fd108e61a3b7adedde4cdef3bc758d29cc305ee2b9888f84fa2dbbbdada4f141",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMIkAnicrZJJaBRBFIYnRo0ZY5QEIwY3WuLGIF1d1UuNKKJxRVG8jjp0LZ1pM5kZ
+u3vGDHFADyJuQTQYlCiouCPkILiATCYoUaMmGFDQkRyMFxdcQhDxoNUh3jxal+LV
++95f/3u8B1NKA8GSV++WyIhH60p6Cx3pQOTAvE0tEkmyrBRukRr56MXjjLtetNFm
+UliSgQwwREhRGEYG1aCmWszChBmIIYsoBmAYQ45NpGNDkQVGVcZlCFWg6xhTFUMs
+m1JIsuxEA3dSjp3whCySiaFCjUBCgGYYimVhQIGJVFmFEOlUNRUoW5SJwljS9SuE
+OWK6fKmdFG8iiI7a+wf/n32nR+WwTpAKdSRTzGUqI82ilqoRQgwTYAKwD7rcSZhN
+XNCuzVjMdLxYxk6l41IuJIlcxqbcH6/fzxiXGQOXiigkpZykl6TJuEjEPC8V9uu8
+bMoH93ASHZOIEjvBxCxFQYY7rp1MSGEgSOrZviZQoYpUoAAlJPHmlO3wqO0Tqq4Z
+sjj+NzwjJC0GZINrwIRENxlnjCPKuAUJ1VWDKZhSKKucKwQbhmEZyDIVJvplJjOR
+BRCQ/KZ2J5JCWxM+zYbRvhsSppd2uJTr7to+PlASDEycMM5fskCwfNrf1dO0st+x
+ihslJ5pbT7avWNvat2judK1nXXt+g7wmPqFmUGmrwXt79j26/PLcCD95/MTl9Pm3
+3wuFFxOHi4vfbNwaWdZ7Z/2l/PbM5JWdIx+Hb9/akU+Xp9tnz6rvrq2Qfhy1MQ2G
+aEdnYuDr/OU9Mwdbn7VdB9VdHaGKocDq9eMHwpsX3rz761P6dPT37sPm40mFnYWz
+T5tutBw6N5LN93+oL3Yu+7Jtxpb+K/fL6iadqgwPN3Vnpzb2vIfhVQv1eHb2z8/u
+s5Hgt5nNpdciLRH3yN5dtU+mrAxVzsktqEdrqqr2u9FK2nCwWKw9S68+P9Be7M/l
+L/RdHGo9tuph2+vq8ntn5oKaPyVMO8U=
+=lZIO
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/siddharthvipul
+
+==================================================================
+
