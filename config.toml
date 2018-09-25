@@ -32,10 +32,14 @@ pygmentscodefencesguesssyntax = true
     url = "https://www.linkedin.com/in/siddharthvipul/"
 
 [[menu.main]]
-    name = "Blog"
+    name = "pgp"
     weight = 1
+    url  = "/gpg.txt"
+[[menu.main]]
+    name = "Blog"
+    weight = 2
     url  = "/posts/"
 [[menu.main]]
     name = "About"
-    weight = 2
+    weight = 3
     url = "/about/"
