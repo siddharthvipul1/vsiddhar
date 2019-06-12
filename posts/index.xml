@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on SiddharthVipul</title>
-    <link>http://vsiddhar.me/posts/</link>
+    <link>https://siddharthvipul1.fedorapeople.org/posts/</link>
     <description>Recent content in Posts on SiddharthVipul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 05 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://vsiddhar.me/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://siddharthvipul1.fedorapeople.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Flock2018</title>
-      <link>http://vsiddhar.me/posts/flock_blog/</link>
+      <link>https://siddharthvipul1.fedorapeople.org/posts/flock_blog/</link>
       <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://vsiddhar.me/posts/flock_blog/</guid>
+      <guid>https://siddharthvipul1.fedorapeople.org/posts/flock_blog/</guid>
       <description>WOW! What an experience it was to meet all the people I have been knowing through IRC..faceless people with random nick that has nothing to do with their name.. but brilliant minds who make a very open, inclusive, welcoming and a powerful project possible!
  This was my first Flock and It has been the best conference/event I have ever attended.
  Unlike other conferences where there are a lot of people presenting their own project and are distributed in groups, everyone in the Flock was connected to a single string, Fedora!</description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>websiteInfo</title>
-      <link>http://vsiddhar.me/posts/websiteinfo/</link>
+      <link>https://siddharthvipul1.fedorapeople.org/posts/websiteinfo/</link>
       <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://vsiddhar.me/posts/websiteinfo/</guid>
+      <guid>https://siddharthvipul1.fedorapeople.org/posts/websiteinfo/</guid>
       <description>Let&amp;rsquo;s discuss vsiddhar.me I have been suggested multiple time to manage a blog, share my stories, events and ideas, but as being a &amp;lsquo;Pro&amp;rsquo; procrastinator, I haven&amp;rsquo;t run from my responsibilities and thus, haven&amp;rsquo;t done the right thing! Sadly, this changes now. I have decided to manage this colorless website (Hugo+Coder, as it requires ~no effort). If I am alive and in right sense, I will be putting at least one post every week month.</description>
     </item>
     

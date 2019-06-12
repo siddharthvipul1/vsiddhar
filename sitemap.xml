@@ -3,38 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://vsiddhar.me/posts/flock_blog/</loc>
+    <loc>https://siddharthvipul1.fedorapeople.org/posts/flock_blog/</loc>
     <lastmod>2018-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://vsiddhar.me/posts/websiteinfo/</loc>
+    <loc>https://siddharthvipul1.fedorapeople.org/posts/</loc>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://siddharthvipul1.fedorapeople.org/</loc>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://siddharthvipul1.fedorapeople.org/posts/websiteinfo/</loc>
     <lastmod>2018-09-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://vsiddhar.me/about/</loc>
+    <loc>https://siddharthvipul1.fedorapeople.org/about/</loc>
   </url>
   
   <url>
-    <loc>http://vsiddhar.me/categories/</loc>
+    <loc>https://siddharthvipul1.fedorapeople.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://vsiddhar.me/posts/</loc>
-    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://siddharthvipul1.fedorapeople.org/contact/</loc>
   </url>
   
   <url>
-    <loc>http://vsiddhar.me/</loc>
-    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://vsiddhar.me/tags/</loc>
+    <loc>https://siddharthvipul1.fedorapeople.org/tags/</loc>
     <priority>0</priority>
   </url>
   
