@@ -3,42 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>vsiddhar.me/posts/flock_blog/</loc>
+    <loc>http://vsiddhar.me/posts/flock_blog/</loc>
     <lastmod>2018-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>vsiddhar.me/posts/</loc>
-    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>vsiddhar.me/</loc>
+    <loc>http://vsiddhar.me/posts/</loc>
     <lastmod>2018-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>vsiddhar.me/posts/websiteinfo/</loc>
+    <loc>http://vsiddhar.me/</loc>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vsiddhar.me/posts/websiteinfo/</loc>
     <lastmod>2018-09-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>vsiddhar.me/about/</loc>
+    <loc>http://vsiddhar.me/about/</loc>
   </url>
   
   <url>
-    <loc>vsiddhar.me/categories/</loc>
+    <loc>http://vsiddhar.me/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>vsiddhar.me/contact/</loc>
+    <loc>http://vsiddhar.me/contact/</loc>
   </url>
   
   <url>
-    <loc>vsiddhar.me/tags/</loc>
+    <loc>http://vsiddhar.me/tags/</loc>
     <priority>0</priority>
   </url>
   
