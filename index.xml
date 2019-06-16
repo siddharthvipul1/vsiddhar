@@ -32,21 +32,21 @@
     </item>
     
     <item>
-      <title>/me is</title>
-      <link>http://vsiddhar.me/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://vsiddhar.me/about/</guid>
-      <description>Contributor &amp;amp;&amp;amp; Ambassador @ Fedora Project FOSS enthusiast, evangelist Self declared developer and command line hero Working @ Fedora | Red Hat CentOS CI Infrastructure team  Contact &amp;amp; Social Network accounts  IRC Nick:  irc.freenode.net: siddharthvipul irc.devel.redhat.com: siddharthvipul  Lurk-around channels: #centos-devel, #fedora, #fedora-devel, #fedora-india, #fedora-qa Telegram: siddharthvipul Email:  &amp;ldquo;c2lkZGhhcnRodmlwdWwxCg==&amp;rdquo;@gmail.com (personal) &amp;ldquo;dmlwdWwK&amp;rdquo;@redhat (work) [spam protection, base64 encoded]  Country: India Region: Bengaluru (follows UTC + 5:30) Languages: English, Hindi FAS Account: siddharthvipul1 Social networks:  Twitter: siddharthvipul GitHub: siddharthvipul LinkedIn: siddharthvipul Facebook: siddharthvipul   Tools of Choice  Editor: vim!</description>
-    </item>
-    
-    <item>
       <title>Contact &amp; Social Network accounts</title>
       <link>http://vsiddhar.me/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://vsiddhar.me/contact/</guid>
-      <description> IRC Nick:  irc.freenode.net: siddharthvipul irc.devel.redhat.com: siddharthvipul  Active in Freenode channels: #centos-ci, #fedora-devel, #fedora-apps &amp;hellip; Telegram: siddharthvipul Email: [spam protection, base64 encoded]  c2lkZGhhcnRodmlwdWwxCg==@gmail.com (personal) dmlwdWwK@redhat.com (work)  Time Zone: UTC + 5:30 FAS Account: siddharthvipul1 Social networks:  Twitter: siddharthvipul GitHub: siddharthvipul LinkedIn: siddharthvipul Facebook: siddharthvipul   </description>
+      <description> IRC Nick:  irc.freenode.net: siddharthvipul irc.devel.redhat.com: siddharthvipul Channels where you can find me: #centos-ci, #fedora-devel, #fedora-apps &amp;hellip;  Telegram: siddharthvipul Email: [spam protection, base64 encoded]  c2lkZGhhcnRodmlwdWwxCg==@gmail.com (personal) dmlwdWwK@redhat.com (work)  Time Zone: UTC + 5:30 FAS Account:siddharthvipul1 Social networks:  Twitter: siddharthvipul GitHub: siddharthvipul LinkedIn: siddharthvipul Facebook: siddharthvipul   </description>
+    </item>
+    
+    <item>
+      <title>Vipul is</title>
+      <link>http://vsiddhar.me/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://vsiddhar.me/about/</guid>
+      <description>  He/His/Him part of CI Infrastructure team in Community Platform Engineering @ Red Hat developing and administering CentOS CI while trying to contribute to some Fedora Apps ambassador @ Fedora Project FOSS enthusiast &amp;amp; evangelist a self declared developer and a command line hero  Contact &amp;amp; Social Network accounts  This page refs to the contact page  </description>
     </item>
     
   </channel>
