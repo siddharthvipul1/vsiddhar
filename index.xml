@@ -5,11 +5,20 @@
     <link>http://vsiddhar.me/</link>
     <description>Recent content on SiddharthVipul</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 21 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://vsiddhar.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GCI mentor&#39;s summit</title>
+      <link>http://vsiddhar.me/posts/gci_mentors_summit/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://vsiddhar.me/posts/gci_mentors_summit/</guid>
+      <description>Context Google Code-in is a contest to introduce pre-university students (ages 13-17) to open source software development. Since 2010, 8,108 students from 107 countries have completed over 40,100 open source tasks Because Google Code-in is often the first experience many students have with open source, the contest is designed to make it easy for students to jump right in. I was one of the mentors in this first time for Fedora program.</description>
+    </item>
     
     <item>
       <title>Fedora 30 Release Party Event Report</title>
@@ -17,7 +26,7 @@
       <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>http://vsiddhar.me/posts/fedora_30_release_party/</guid>
-      <description>Some Contest Celebrating Fedora Release Party is now a custom in Bangalore. This time, although late, we organized it in Red Hat Banglaore Engineering office. We were expecting 30 people to attend the party and we received a fairly good response with ~25 people on and off. Some came for SilverBlue, some to install Fedora 30 and some wanted to know more about the 31 changesets. It was a rather successful event considering it was a working day AND RootConf was at the same $day:time on a different part of city.</description>
+      <description>Contest Celebrating Fedora Release Party is now a custom in Bangalore. This time, although late, we organized it in Red Hat Banglaore Engineering office. We were expecting 30 people to attend the party and we received a fairly good response with ~25 people on and off. Some came for SilverBlue, some to install Fedora 30 and some wanted to know more about the 31 changesets. It was a rather successful event considering it was a working day AND RootConf was at the same $day:time on a different part of city.</description>
     </item>
     
     <item>
@@ -38,6 +47,17 @@
       
       <guid>http://vsiddhar.me/posts/websiteinfo/</guid>
       <description>Let&amp;rsquo;s discuss vsiddhar.me I have been suggested multiple time to manage a blog, share my stories, events and ideas, but as being a &amp;lsquo;Pro&amp;rsquo; procrastinator, I haven&amp;rsquo;t run from my responsibilities and thus, haven&amp;rsquo;t done the right thing! Sadly, this changes now. I have decided to manage this colorless website (Hugo+Coder, as it requires ~no effort). If I am alive and in right sense, I will be putting at least one post every week month.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://vsiddhar.me/404/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://vsiddhar.me/404/</guid>
+      <description> SiddharthVipul   SiddharthVipul  gpg.pub  About     :|  404 Page Not Found 
+Ever feel like you at the wrong place?You can head back to homepage.
+   Powered by Hugo.      </description>
     </item>
     
     <item>
