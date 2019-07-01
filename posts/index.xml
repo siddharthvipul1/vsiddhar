@@ -5,13 +5,13 @@
 		<description>Recent content in Posts on SiddharthVipul</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<lastBuildDate>Thu, 27 Jun 2019 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0000</lastBuildDate>
 		<atom:link href="http://vsiddhar.me/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>GCI mentor&#39;s summit</title>
+			<title>GCI mentor&#39;s summit @ Google headquaters</title>
 			<link>http://vsiddhar.me/posts/gci_mentors_summit/</link>
-			<pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+			<pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
 			
 			<guid>http://vsiddhar.me/posts/gci_mentors_summit/</guid>
 			<description>Context Google Code-in is a contest to introduce pre-university students (ages 13-17) to open source software development. Since 2010, 8,108 students from 107 countries have completed over 40,100 open source tasks Because Google Code-in is often the first experience many students have with open source, the contest is designed to make it easy for students to jump right in. I was one of the mentors in this first time for Fedora program.</description>
@@ -25,18 +25,19 @@ countries have completed over 40,100 open source tasks Because Google Code-in
 is often the first experience many students have with
 open source, the contest is designed to make it easy for students to jump right
 in.
-I was one of the mentors in this first time for Fedora program. We had 125 students participating in Fedora and the top 3 students completed 26, 24 and 22 tasks each.</p>
+I was one of the mentors in this first time for Fedora program. We had 125 students participating in Fedora and the top 3 students completed 26, 25 and 22 tasks each.</p>
 
 <h1 id="mentors">Mentors</h1>
 
 <p>Very active and helpful group of mentors helped the students whenever required.
-We were 5 mentors</p>
+We were 7 mentors</p>
 
 <ul>
 <li>Abhishek</li>
 <li><a href="http://www.anujjain.xyz/">Anuj</a></li>
 <li><a href="https://badges.fedoraproject.org/user/algogator">Algogator</a></li>
 <li><a href="https://badges.fedoraproject.org/user/amitosh">Amitosh</a></li>
+<li><a href="https://www.fedoraproject.org/wiki/User:Coremodule">Coremodule</a></li>
 <li><a href="https://fedoraproject.org/wiki/User:siddharhvipul1">/me</a></li>
 <li><a href="https://fedoraproject.org/wiki/User:Jonatoni">Jonatoni</a></li>
 <li><a href="https://fedoraproject.org/wiki/User:sumantrom">Sumantrom</a></li>
@@ -45,12 +46,12 @@ We were 5 mentors</p>
 <p>Our winners:</p>
 
 <ul>
-<li>Alex Margii</li>
+<li><a href="https://alexmarginean.me">Margii</a></li>
 <li>EchoDuck</li>
 </ul>
 
 <p>Every year Google invites Grand-Prize winner and their parents, and a mentor to it&rsquo;s
-headquarters in San Francisco, California for 4 days trip. This report covers
+headquarters in San Francisco, California for a 4 days trip. This report covers
 activities and other things that happened there.</p>
 
 <h3 id="day-00-reception">Day 00 (Reception)</h3>
@@ -94,14 +95,15 @@ purchase merchandise of their choice)</li>
 <h3 id="day-10-fun-day-in-san-francisco">Day 10 (Fun Day in San Francisco)</h3>
 
 <ul>
-<li>Cable car around the city and see
+<li><p>Cable car around the city and see</p>
 
 <ul>
 <li>Twin Peaks, San Francisco</li>
 <li>Golden gate park</li>
 <li>Golden gate bridge (also, walked across it)</li>
-<li>Dinner on a Yacht</li>
 </ul></li>
+
+<li><p>Dinner on a Yacht</p></li>
 </ul>
 
 <h3 id="day-11-closing-reception-in-google-sf-office">Day 11 (Closing reception in Google SF office)</h3>
