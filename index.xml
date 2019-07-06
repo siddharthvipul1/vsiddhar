@@ -1,52 +1,304 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SiddharthVipul</title>
+    <title>SiddharthVipul on SiddharthVipul</title>
     <link>http://vsiddhar.me/</link>
-    <description>Recent content on SiddharthVipul</description>
+    <description>Recent content in SiddharthVipul on SiddharthVipul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://vsiddhar.me/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>GCI mentor&#39;s summit @ Google headquarters</title>
-      <link>http://vsiddhar.me/posts/gci_mentors_summit/</link>
+      <link>http://vsiddhar.me/2019/gci_mentors_summit/</link>
       <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://vsiddhar.me/posts/gci_mentors_summit/</guid>
-      <description>Context Google Code-in is a contest to introduce pre-university students (ages 13-17) to open source software development. Since 2010, 8,108 students from 107 countries have completed over 40,100 open source tasks Because Google Code-in is often the first experience many students have with open source, the contest is designed to make it easy for students to jump right in. I was one of the mentors in this first time for Fedora program.</description>
+      <guid>http://vsiddhar.me/2019/gci_mentors_summit/</guid>
+      <description>
+
+&lt;h1 id=&#34;context&#34;&gt;Context&lt;/h1&gt;
+
+&lt;p&gt;Google Code-in is a contest to introduce pre-university students (ages 13-17)
+to open source software development. Since 2010, 8,108 students from 107
+countries have completed over 40,100 open source tasks Because Google Code-in
+is often the first experience many students have with
+open source, the contest is designed to make it easy for students to jump right
+in.
+I was one of the mentors in this first time for Fedora program. We had 125 students participating in Fedora and the top 3 students completed 26, 25 and 22 tasks each.&lt;/p&gt;
+
+&lt;h1 id=&#34;mentors&#34;&gt;Mentors&lt;/h1&gt;
+
+&lt;p&gt;Very active and helpful group of mentors helped the students whenever required.
+We were 7 mentors&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Abhishek&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.anujjain.xyz/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Anuj&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://badges.fedoraproject.org/user/algogator&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Algogator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://badges.fedoraproject.org/user/amitosh&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Amitosh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fedoraproject.org/wiki/User:Coremodule&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Coremodule&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fedoraproject.org/wiki/User:siddharhvipul1&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;/me&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fedoraproject.org/wiki/User:Jonatoni&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Jonatoni&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fedoraproject.org/wiki/User:sumantrom&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Sumantrom&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Our winners:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://alexmarginean.me&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Margii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;EchoDuck&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Every year Google invites Grand-Prize winner and their parents, and a mentor to it&amp;rsquo;s
+headquarters in San Francisco, California for a 4 days trip. This report covers
+activities and other things that happened there.&lt;/p&gt;
+
+&lt;h3 id=&#34;day-00-reception&#34;&gt;Day 00 (Reception)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Meeting the mentees at the hotel (4:30)&lt;/li&gt;
+&lt;li&gt;Opening reception at 5:00pm at the Google San Francisco office for all attendees.&lt;/li&gt;
+&lt;li&gt;Welcome (snacks and appreciating everyone&amp;rsquo;s efforts)&lt;/li&gt;
+&lt;li&gt;Swag giveaway
+
+&lt;ul&gt;
+&lt;li&gt;Students got Pixel 3xl phones and a bag full with a jacket and 2 T-shirts.&lt;/li&gt;
+&lt;li&gt;Mentors got the bag with a Jacket and 2 T-shirts as well&lt;/li&gt;
+&lt;li&gt;A lot of GCI and GSoC stickers&lt;/li&gt;
+&lt;li&gt;Pens/Pins/&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Dinner&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;day-01-full-day-at-google-headquarters-in-mountain-view&#34;&gt;Day 01 (Full Day at Google headquarters in Mountain View.)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Take shuttle to the Google headquarters&lt;/li&gt;
+&lt;li&gt;See around Googleplex&lt;/li&gt;
+&lt;li&gt;Visit Google Merch store (students were provided $150 and mentors $75 to
+purchase merchandise of their choice)&lt;/li&gt;
+&lt;li&gt;Students met Google Employees from their home country and had lunch with them&lt;/li&gt;
+&lt;li&gt;Talks by Google employees
+
+&lt;ul&gt;
+&lt;li&gt;Recruiting -  Lauren Alpizar&lt;/li&gt;
+&lt;li&gt;Android OS: Ally Sillins&lt;/li&gt;
+&lt;li&gt;Cloud:  Ryan Matsumoto&lt;/li&gt;
+&lt;li&gt;Chrome OS - Grant Grundler&lt;/li&gt;
+&lt;li&gt;Google Assistant - Daniel Myers&lt;/li&gt;
+&lt;li&gt;Google TensorFlow - Paige Bailey&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Dinner and then back to the hotel&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;day-10-fun-day-in-san-francisco&#34;&gt;Day 10 (Fun Day in San Francisco)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Cable car around the city and see&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Twin Peaks, San Francisco&lt;/li&gt;
+&lt;li&gt;Golden gate park&lt;/li&gt;
+&lt;li&gt;Golden gate bridge (also, walked across it)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Dinner on a Yacht&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;day-11-closing-reception-in-google-sf-office&#34;&gt;Day 11 (Closing reception in Google SF office)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Breakfast&lt;/li&gt;
+&lt;li&gt;Award ceremony (to grand prize winners)&lt;/li&gt;
+&lt;li&gt;Presentation (by mentors and winners - 4 minutes each)&lt;/li&gt;
+&lt;li&gt;Lunch&lt;/li&gt;
+&lt;li&gt;Interview recording&lt;/li&gt;
+&lt;li&gt;lunch and closing reception at Google San Francisco office. Events end no later than 3:00pm.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>Fedora 30 Release Party Event Report</title>
-      <link>http://vsiddhar.me/posts/fedora_30_release_party/</link>
+      <link>http://vsiddhar.me/2019/fedora_30_release_party/</link>
       <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://vsiddhar.me/posts/fedora_30_release_party/</guid>
-      <description>Context Celebrating Fedora Release Party is now a custom in Bangalore. This time, although late, we organized it in Red Hat Banglaore Engineering office. We were expecting 30 people to attend the party and we received a fairly good response with ~25 people on and off. Some came for SilverBlue, some to install Fedora 30 and some wanted to know more about the 31 changesets. It was a rather successful event considering it was a working day AND RootConf was at the same $day:time on a different part of city.</description>
+      <guid>http://vsiddhar.me/2019/fedora_30_release_party/</guid>
+      <description>
+
+&lt;h1 id=&#34;context&#34;&gt;Context&lt;/h1&gt;
+
+&lt;p&gt;Celebrating Fedora Release Party is now a custom in Bangalore. This time,
+although late, we organized it in Red Hat Banglaore Engineering office. We were
+expecting 30 people to attend the party and we received a fairly good response
+with ~25 people on and off. Some came for SilverBlue, some to install Fedora
+30 and some wanted to know more about the 31 changesets. It was a rather
+successful event considering it was a working day AND &lt;strong&gt;RootConf&lt;/strong&gt; was at the same &lt;code&gt;$day:time&lt;/code&gt; on a
+different part of city. People love RootConf.&lt;/p&gt;
+
+&lt;h1 id=&#34;what-happened-in-the-celebration&#34;&gt;What happened in the celebration&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I started the event by discussing &lt;a href=&#34;https://fedoraproject.org/wiki/Fedora_30_talking_points&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;talking points&lt;/a&gt; of Fedora 30.
+When I reached changes in security, questions started coming it. Thankfully we
+had a Gluster Engineer who works a lot around libcrypt and he was able to drive
+the discussion into a very productive one.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://fedoraproject.org/wiki/User:Sinnykumari&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Sinny&lt;/a&gt; spoke and showed demo of SilverBlue. We had so many question it
+lasted for an hour.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;[Anuj] and I discussed Fedora Summer Coding programs and did an unofficial
+call for mentors in case there is something that they wish for Fedora and
+want to make it a success by taking it on their own. :P (focus on unofficial)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Thanks to &lt;a href=&#34;https://fedoraproject.org/wiki/User:Bex&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Bex&lt;/a&gt; for sending us a good amount of Swag that made the participants
+(and me :P) super happy. Followed by swag distribution, we cut the cake (cut by a user who has promised that he will contribute the
+package he is facing issues into by doing update testing).
+Cake, Swag and cherry on top we had burgers for everyone. It was an wonderful
+and a successful event.&lt;/p&gt;
+
+&lt;p&gt;Post food and networking, I showed how to test packages to Digganta (The guy
+who cut the cake).
+We called off the event by 06:00 pm. A good 4 hours of users/contributions
+meeting was amazing to see!&lt;/p&gt;
+
+&lt;p&gt;Thanks to all the participants, and Red Hat Bangalore site managers to  provide
+us the venue and snacks.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://fedoraproject.org/wiki/User:Sumantrom&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Sumantro&lt;/a&gt; was missed.&lt;/p&gt;
+
+&lt;p&gt;A rather short report, now enjoy some pictures &lt;a href=&#34;https://photos.app.goo.gl/Lnr78rGmLXiqTBzB9&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Flock2018</title>
-      <link>http://vsiddhar.me/posts/flock_blog/</link>
+      <link>http://vsiddhar.me/2018/flock_blog/</link>
       <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://vsiddhar.me/posts/flock_blog/</guid>
-      <description>WOW! What an experience it was to meet all the people I have been knowing through IRC..faceless people with random nick that has nothing to do with their name.. but brilliant minds who make a very open, inclusive, welcoming and a powerful project possible!
- This was my first Flock and It has been the best conference/event I have ever attended.
- Unlike other conferences where there are a lot of people presenting their own project and are distributed in groups, everyone in the Flock was connected to a single string, Fedora!</description>
+      <guid>http://vsiddhar.me/2018/flock_blog/</guid>
+      <description>
+
+&lt;h1 id=&#34;wow&#34;&gt;WOW!&lt;/h1&gt;
+
+&lt;p&gt;What an experience it was to meet all the people I have been knowing
+through IRC..faceless people with random nick that has nothing to do with
+their name.. but brilliant minds who make a very open, inclusive, welcoming
+and a powerful project possible!&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This was my first Flock and It has been the best conference/event I have ever attended.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Unlike other conferences where there are a lot of people presenting their own
+project and are distributed in groups, everyone in the Flock was connected to a
+single string, Fedora!&lt;/p&gt;
+
+&lt;p&gt;read for a brief summary of the event.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;where&#34;&gt;Where?&lt;/h3&gt;
+
+&lt;p&gt;Radisson Blu,
+&lt;strong&gt;Radebeul - Dresden&lt;/strong&gt; | Germany&lt;/p&gt;
+
+&lt;h3 id=&#34;when&#34;&gt;When?&lt;/h3&gt;
+
+&lt;p&gt;During the hottest time in whole Europe (which is not very bad)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;August 7th&lt;/strong&gt; to &lt;strong&gt;August 11th&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;a-bit-about-the-talks-and-presentations&#34;&gt;A bit about the talks and presentations&lt;/h2&gt;
+
+&lt;p&gt;Keynote &amp;lsquo;State of Fedora (Objectives &amp;amp; Editions)&amp;rsquo;
+started at 9&amp;rsquo;o clock in which &lt;a href=&#34;https://fedoraproject.org/wiki/User:Mattdm&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Matthew
+Miller&lt;/a&gt;, &lt;a href=&#34;https://fedoraproject.org/wiki/User:Bex&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Brian
+Exelbierd&lt;/a&gt;,
+&lt;a href=&#34;https://fedoraproject.org/wiki/User:Sgallagh&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Stephen Gallagher&lt;/a&gt;, &lt;a href=&#34;https://fedoraproject.org/wiki/User:Dustymabe&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Dusty Mabe&lt;/a&gt;,
+&lt;a href=&#34;https://fedoraproject.org/wiki/User:Pbrobinson&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Peter Robinson&lt;/a&gt; and &lt;a href=&#34;https://fedoraproject.org/wiki/User:Langdon&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Langdon White&lt;/a&gt;
+presented
+ * stats, successes, ups, and downs of the Fedora Project.
+ * About Flock and it&amp;rsquo;s value.
+ * About SIGs
+ * where as a community we stand and the areas we need to improve.&lt;/p&gt;
+
+&lt;p&gt;Combined, a very insightful and informative presentation.&lt;/p&gt;
+
+&lt;p&gt;I tried to attend as many talks/workshops as possible still keeping some time
+in hand to meet those amazing people in person and discuss a few ideas (or at
+least share a handshake).
+Every talk was full of discussion. The Attendees
+were not just there to listen and take notes, but to provide their input which
+I have never seen anywhere else.
+So many planning meetings, SIGs gathering and a lot of snacks during the tea
+break (thanks ARM for sponsoring it) made it a perfect event.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My schedule&lt;/strong&gt;: &lt;a href=&#34;https://flock2018.sched.com/siddharthvipul1&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;https://flock2018.sched.com/siddharthvipul1&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;other-stuff&#34;&gt;Other stuff&lt;/h2&gt;
+
+&lt;p&gt;Flock didn&amp;rsquo;t just involved talks and knowledge sharing, but also candies.
+Credit goes to Justin for organizing the International candy swap event.
+Everyone brought what they thought authentic and local from their country
+including some weird ones to have fun. well,
+the weird credit goes to Göran and me. TBH what I took (Pulse candy) was
+not really weird, but like Indians, not everyone likes spices in their candy.
+Oh wait, this doesn&amp;rsquo;t mean that the candy that Göran brought wasn&amp;rsquo;t weird&amp;hellip; It
+was scary! But that&amp;rsquo;s what made the event even more memorable. We had a lot of
+fun making people try it and waiting for their reaction.&lt;/p&gt;
+
+&lt;p&gt;Amazing &lt;a href=&#34;https://twitter.com/DomiBula&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Dominika Bula&lt;/a&gt; had organised a scavenzer hunt for us which was
+designed to make us explore the city center .&lt;/p&gt;
+
+&lt;p&gt;Then we went to Roller Coaster Restaurant which was different, thus awesome!
+Other fun things like game night, karaoke event, and eating everyday out with
+others, going for a walk in a biiiig group, laughing and enjoying (/me cries
+and gets nostalgic)&lt;/p&gt;
+
+&lt;p&gt;It was an experience that no one can say no to. I am definfitly loolking
+forward to attend more of such events.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Thank you Fedora for sponsoring my trip :)&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
     </item>
     
     <item>
       <title>websiteInfo</title>
-      <link>http://vsiddhar.me/posts/websiteinfo/</link>
+      <link>http://vsiddhar.me/2018/websiteinfo/</link>
       <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://vsiddhar.me/posts/websiteinfo/</guid>
-      <description>Let&amp;rsquo;s discuss vsiddhar.me I have been suggested multiple time to manage a blog, share my stories, events and ideas, but as being a &amp;lsquo;Pro&amp;rsquo; procrastinator, I haven&amp;rsquo;t run from my responsibilities and thus, haven&amp;rsquo;t done the right thing! Sadly, this changes now. I have decided to manage this colorless website (Hugo+Coder, as it requires ~no effort). If I am alive and in right sense, I will be putting at least one post every week month.</description>
+      <guid>http://vsiddhar.me/2018/websiteinfo/</guid>
+      <description>
+
+&lt;h1 id=&#34;let-s-discuss-vsiddhar-me&#34;&gt;Let&amp;rsquo;s discuss vsiddhar.me&lt;/h1&gt;
+
+&lt;p&gt;I have been suggested multiple time to manage a blog, share my stories, events
+and ideas, but as being a &amp;lsquo;Pro&amp;rsquo; procrastinator, I haven&amp;rsquo;t run from my
+responsibilities and thus, haven&amp;rsquo;t done the right thing! Sadly, this changes now.
+I have decided to manage this colorless website (Hugo+Coder, as it requires ~no
+effort). If I am alive and in right sense, I will be putting at least one post
+every &lt;s&gt;week&lt;/s&gt; month.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s a small/slow target but for now let&amp;rsquo;s not promise the mountain.
+Ideally, I should have migrated my previous blogs, but they are full of color
+and also don&amp;rsquo;t make a lot of sense. I have recently (very recently) joined
+Fedora Core Engineering (Platform Team) and will be working on CentOS CI, Fedora CI and a bit of
+other stuff which I haven&amp;rsquo;t figured out yet.&lt;/p&gt;
+
+&lt;p&gt;Most probably this will be updates of my work, few exciting news or small
+reads/interesting knowledge sharing platform.&lt;/p&gt;
+
+&lt;p&gt;So, keep in touch, I might add some way of notifying people (no promises) or I
+might just keep it as my diary (open).&lt;/p&gt;
+
+&lt;p&gt;A formal ending with a formal Thank you!&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -55,9 +307,88 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://vsiddhar.me/404/</guid>
-      <description> SiddharthVipul   SiddharthVipul  gpg.pub  About     :|  404 Page Not Found 
-Ever feel like you at the wrong place?You can head back to homepage.
-   Powered by Hugo.      </description>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+
+  &lt;head&gt;
+    &lt;meta charset=&#34;utf-8&#34;&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
+
+    &lt;meta name=&#34;author&#34; content=&#34;SiddharthVipul&#34;&gt;
+    &lt;meta name=&#34;description&#34; content=&#34;Vipul&amp;#39;s personal website&#34;&gt;
+    &lt;meta name=&#34;keywords&#34; content=&#34;Blog, Developer, Personal&#34;&gt;
+
+    &lt;base href=&#34;http://vsiddhar.me&#34;&gt;
+    &lt;title&gt;SiddharthVipul&lt;/title&gt;
+
+    &lt;link rel=&#34;canonical&#34; href=&#34;http://vsiddhar.me/404.html&#34;&gt;
+
+ &lt;link  rel=&#34;stylesheet&#34; href=&#34;https://fonts.googleapis.com/css?family=Fira+Mono:400,700&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;//cdn.rawgit.com/necolas/normalize.css/master/normalize.css&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;http://vsiddhar.me/css/style.min.css&#34;&gt;
+
+    &lt;link rel=&#34;icon&#34; type=&#34;image/png&#34; href=&#34;http://vsiddhar.me/images/favicon-32x32.png&#34; sizes=&#34;32x32&#34;&gt;
+    &lt;link rel=&#34;icon&#34; type=&#34;image/png&#34; href=&#34;http://vsiddhar.me/images/favicon-16x16.png&#34; sizes=&#34;16x16&#34;&gt;
+
+    
+
+    &lt;meta name=&#34;generator&#34; content=&#34;Hugo 0.55.6&#34; /&gt;
+  &lt;/head&gt;
+
+  &lt;body&gt;
+    &lt;main class=&#34;wrapper&#34;&gt;
+      &lt;nav class=&#34;navigation&#34;&gt;
+  &lt;section class=&#34;container&#34;&gt;
+    &lt;a class=&#34;navigation-title&#34; href=&#34;http://vsiddhar.me/&#34;&gt;
+      SiddharthVipul
+    &lt;/a&gt;
+    
+    &lt;ul class=&#34;navigation-list float-right&#34;&gt;
+      
+      &lt;li class=&#34;navigation-item&#34;&gt;
+        &lt;a class=&#34;navigation-link&#34; href=&#34;http://vsiddhar.me/gpg.txt&#34;&gt;gpg.pub&lt;/a&gt;
+      &lt;/li&gt;
+      
+      &lt;li class=&#34;navigation-item&#34;&gt;
+        &lt;a class=&#34;navigation-link&#34; href=&#34;http://vsiddhar.me/about/&#34;&gt;About&lt;/a&gt;
+      &lt;/li&gt;
+      
+    &lt;/ul&gt;
+    
+  &lt;/section&gt;
+&lt;/nav&gt;
+
+
+      &lt;div class=&#34;content&#34;&gt;
+        
+  &lt;section class=&#34;container centered&#34;&gt;
+  &lt;div class=&#34;error&#34;&gt;
+    &lt;h1&gt;:|&lt;/h1&gt;
+    &lt;br/&gt;
+    &lt;h1&gt;404&lt;/h1&gt;
+    &lt;h2&gt;Page Not Found&lt;/h2&gt;
+    &lt;p&gt;&lt;br /&gt;Ever feel like you at the wrong place?&lt;br/&gt;You can head back to &lt;a href=&#34;http://vsiddhar.me&#34;&gt;homepage&lt;/a&gt;.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+
+      &lt;/div&gt;
+
+      &lt;footer class=&#34;footer&#34;&gt;
+  &lt;section class=&#34;container&#34;&gt;
+    
+    Powered by &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;.
+  &lt;/section&gt;
+&lt;/footer&gt;
+
+    &lt;/main&gt;
+
+    
+
+  &lt;/body&gt;
+
+&lt;/html&gt;
+</description>
     </item>
     
     <item>
@@ -66,7 +397,35 @@ Ever feel like you at the wrong place?You can head back to homepage.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://vsiddhar.me/contact/</guid>
-      <description> IRC Nick:  irc.freenode.net: siddharthvipul irc.devel.redhat.com: siddharthvipul Channels where you can find me: #centos-ci, #fedora-devel, #fedora-apps &amp;hellip;  Telegram: siddharthvipul Email: [spam protection, base64 encoded]  c2lkZGhhcnRodmlwdWwxCg==@gmail.com (personal) dmlwdWwK@redhat.com (work)  Time Zone: UTC + 5:30 FAS Account:siddharthvipul1 Social networks:  Twitter: siddharthvipul GitHub: siddharthvipul LinkedIn: siddharthvipul Facebook: siddharthvipul   </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;IRC Nick:
+
+&lt;ul&gt;
+&lt;li&gt;irc.freenode.net: siddharthvipul&lt;/li&gt;
+&lt;li&gt;irc.devel.redhat.com: siddharthvipul&lt;/li&gt;
+&lt;li&gt;Channels where you can find me: #centos-ci, #fedora-devel, #fedora-apps &amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Telegram: &lt;a href=&#34;https://t.me/siddharthvipul&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;siddharthvipul&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Email: [spam protection, base64 encoded]
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;c2lkZGhhcnRodmlwdWwxCg==&lt;/code&gt;@gmail.com (personal)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;dmlwdWwK&lt;/code&gt;@redhat.com (work)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Time Zone: UTC + 5:30&lt;/li&gt;
+&lt;li&gt;FAS Account:&lt;a href=&#34;https://fedoraproject.org/wiki/User:Siddharthvipul1&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;siddharthvipul1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Social networks:
+
+&lt;ul&gt;
+&lt;li&gt;Twitter: &lt;a href=&#34;https://www.twitter.com/siddharthvipul&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;siddharthvipul&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub: &lt;a href=&#34;https://www.github.com/siddharthvipul&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;siddharthvipul&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/siddharthvipul&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;siddharthvipul&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Facebook: &lt;a href=&#34;https://www.fb.com/siddharthvipul&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;siddharthvipul&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+</description>
     </item>
     
     <item>
@@ -75,7 +434,27 @@ Ever feel like you at the wrong place?You can head back to homepage.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://vsiddhar.me/about/</guid>
-      <description>  He/His/Him part of CI Infrastructure team in Community Platform Engineering @ Red Hat developing and administering CentOS CI while trying to contribute to some Fedora Apps ambassador @ Fedora Project FOSS enthusiast &amp;amp; evangelist a self declared developer and a command line hero  Contact &amp;amp; Social Network accounts  Contact Page  </description>
+      <description>
+
+&lt;ul&gt;
+&lt;li&gt;He/His/Him&lt;/li&gt;
+&lt;li&gt;part of CI Infrastructure team in &lt;a href=&#34;https://fedoraproject.org/wiki/Community_Platform_Engineering?rd=Fedora_Engineering&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Community Platform Engineering&lt;/a&gt; @ &lt;a href=&#34;https://www.redhat.com/en&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Red Hat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;developing and administering CentOS CI while trying to contribute to some Fedora Apps&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fedoraproject.org/wiki/Ambassadors&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;ambassador&lt;/a&gt; @ Fedora Project&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Free_and_open-source_software&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;FOSS&lt;/a&gt; enthusiast &amp;amp; evangelist&lt;/li&gt;
+&lt;li&gt;a self declared developer and a command line hero&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;contact-social-network-accounts&#34;&gt;Contact &amp;amp; Social Network accounts&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://vsiddhar.me/contact/&#34;&gt;Contact Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+</description>
     </item>
     
   </channel>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://vsiddhar.me/pt-br/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://vsiddhar.me/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://vsiddhar.me/pt-br/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://vsiddhar.me/pt-br/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://vsiddhar.me/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://vsiddhar.me/pt-br/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://vsiddhar.me/pt-br/series/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://vsiddhar.me/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://vsiddhar.me/pt-br/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://vsiddhar.me/pt-br/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://vsiddhar.me/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://vsiddhar.me/pt-br/tags/"
+                />
+  </url>
+  
+</urlset>

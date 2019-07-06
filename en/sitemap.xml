@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://vsiddhar.me/posts/gci_mentors_summit/</loc>
+    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vsiddhar.me/posts/</loc>
+    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vsiddhar.me/</loc>
+    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://vsiddhar.me/pt-br/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://vsiddhar.me/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://vsiddhar.me/posts/fedora_30_release_party/</loc>
+    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vsiddhar.me/posts/flock_blog/</loc>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vsiddhar.me/posts/websiteinfo/</loc>
+    <lastmod>2018-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vsiddhar.me/404/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vsiddhar.me/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://vsiddhar.me/pt-br/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://vsiddhar.me/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://vsiddhar.me/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://vsiddhar.me/series/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://vsiddhar.me/pt-br/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://vsiddhar.me/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://vsiddhar.me/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://vsiddhar.me/pt-br/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://vsiddhar.me/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://vsiddhar.me/about/</loc>
+  </url>
+  
+</urlset>

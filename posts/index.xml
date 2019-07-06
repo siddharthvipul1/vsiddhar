@@ -1,311 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Posts on SiddharthVipul</title>
-		<link>http://vsiddhar.me/posts/</link>
-		<description>Recent content in Posts on SiddharthVipul</description>
-		<generator>Hugo -- gohugo.io</generator>
-		<language>en-us</language>
-		<lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0000</lastBuildDate>
-		<atom:link href="http://vsiddhar.me/posts/index.xml" rel="self" type="application/rss+xml" />
-		
-		<item>
-			<title>GCI mentor&#39;s summit @ Google headquarters</title>
-			<link>http://vsiddhar.me/posts/gci_mentors_summit/</link>
-			<pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
-			
-			<guid>http://vsiddhar.me/posts/gci_mentors_summit/</guid>
-			<description>Context Google Code-in is a contest to introduce pre-university students (ages 13-17) to open source software development. Since 2010, 8,108 students from 107 countries have completed over 40,100 open source tasks Because Google Code-in is often the first experience many students have with open source, the contest is designed to make it easy for students to jump right in. I was one of the mentors in this first time for Fedora program.</description>
-			<content type="html"><![CDATA[
-
-<h1 id="context">Context</h1>
-
-<p>Google Code-in is a contest to introduce pre-university students (ages 13-17)
-to open source software development. Since 2010, 8,108 students from 107
-countries have completed over 40,100 open source tasks Because Google Code-in
-is often the first experience many students have with
-open source, the contest is designed to make it easy for students to jump right
-in.
-I was one of the mentors in this first time for Fedora program. We had 125 students participating in Fedora and the top 3 students completed 26, 25 and 22 tasks each.</p>
-
-<h1 id="mentors">Mentors</h1>
-
-<p>Very active and helpful group of mentors helped the students whenever required.
-We were 7 mentors</p>
-
-<ul>
-<li>Abhishek</li>
-<li><a href="http://www.anujjain.xyz/">Anuj</a></li>
-<li><a href="https://badges.fedoraproject.org/user/algogator">Algogator</a></li>
-<li><a href="https://badges.fedoraproject.org/user/amitosh">Amitosh</a></li>
-<li><a href="https://www.fedoraproject.org/wiki/User:Coremodule">Coremodule</a></li>
-<li><a href="https://fedoraproject.org/wiki/User:siddharhvipul1">/me</a></li>
-<li><a href="https://fedoraproject.org/wiki/User:Jonatoni">Jonatoni</a></li>
-<li><a href="https://fedoraproject.org/wiki/User:sumantrom">Sumantrom</a></li>
-</ul>
-
-<p>Our winners:</p>
-
-<ul>
-<li><a href="https://alexmarginean.me">Margii</a></li>
-<li>EchoDuck</li>
-</ul>
-
-<p>Every year Google invites Grand-Prize winner and their parents, and a mentor to it&rsquo;s
-headquarters in San Francisco, California for a 4 days trip. This report covers
-activities and other things that happened there.</p>
-
-<h3 id="day-00-reception">Day 00 (Reception)</h3>
-
-<ul>
-<li>Meeting the mentees at the hotel (4:30)</li>
-<li>Opening reception at 5:00pm at the Google San Francisco office for all attendees.</li>
-<li>Welcome (snacks and appreciating everyone&rsquo;s efforts)</li>
-<li>Swag giveaway
-
-<ul>
-<li>Students got Pixel 3xl phones and a bag full with a jacket and 2 T-shirts.</li>
-<li>Mentors got the bag with a Jacket and 2 T-shirts as well</li>
-<li>A lot of GCI and GSoC stickers</li>
-<li>Pens/Pins/&hellip;</li>
-</ul></li>
-<li>Dinner</li>
-</ul>
-
-<h3 id="day-01-full-day-at-google-headquarters-in-mountain-view">Day 01 (Full Day at Google headquarters in Mountain View.)</h3>
-
-<ul>
-<li>Take shuttle to the Google headquarters</li>
-<li>See around Googleplex</li>
-<li>Visit Google Merch store (students were provided $150 and mentors $75 to
-purchase merchandise of their choice)</li>
-<li>Students met Google Employees from their home country and had lunch with them</li>
-<li>Talks by Google employees
-
-<ul>
-<li>Recruiting -  Lauren Alpizar</li>
-<li>Android OS: Ally Sillins</li>
-<li>Cloud:  Ryan Matsumoto</li>
-<li>Chrome OS - Grant Grundler</li>
-<li>Google Assistant - Daniel Myers</li>
-<li>Google TensorFlow - Paige Bailey</li>
-</ul></li>
-<li>Dinner and then back to the hotel</li>
-</ul>
-
-<h3 id="day-10-fun-day-in-san-francisco">Day 10 (Fun Day in San Francisco)</h3>
-
-<ul>
-<li><p>Cable car around the city and see</p>
-
-<ul>
-<li>Twin Peaks, San Francisco</li>
-<li>Golden gate park</li>
-<li>Golden gate bridge (also, walked across it)</li>
-</ul></li>
-
-<li><p>Dinner on a Yacht</p></li>
-</ul>
-
-<h3 id="day-11-closing-reception-in-google-sf-office">Day 11 (Closing reception in Google SF office)</h3>
-
-<ul>
-<li>Breakfast</li>
-<li>Award ceremony (to grand prize winners)</li>
-<li>Presentation (by mentors and winners - 4 minutes each)</li>
-<li>Lunch</li>
-<li>Interview recording</li>
-<li>lunch and closing reception at Google San Francisco office. Events end no later than 3:00pm.</li>
-</ul>
-]]></content>
-		</item>
-		
-		<item>
-			<title>Fedora 30 Release Party Event Report</title>
-			<link>http://vsiddhar.me/posts/fedora_30_release_party/</link>
-			<pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
-			
-			<guid>http://vsiddhar.me/posts/fedora_30_release_party/</guid>
-			<description>Context Celebrating Fedora Release Party is now a custom in Bangalore. This time, although late, we organized it in Red Hat Banglaore Engineering office. We were expecting 30 people to attend the party and we received a fairly good response with ~25 people on and off. Some came for SilverBlue, some to install Fedora 30 and some wanted to know more about the 31 changesets. It was a rather successful event considering it was a working day AND RootConf was at the same $day:time on a different part of city.</description>
-			<content type="html"><![CDATA[
-
-<h1 id="context">Context</h1>
-
-<p>Celebrating Fedora Release Party is now a custom in Bangalore. This time,
-although late, we organized it in Red Hat Banglaore Engineering office. We were
-expecting 30 people to attend the party and we received a fairly good response
-with ~25 people on and off. Some came for SilverBlue, some to install Fedora
-30 and some wanted to know more about the 31 changesets. It was a rather
-successful event considering it was a working day AND <strong>RootConf</strong> was at the same <code>$day:time</code> on a
-different part of city. People love RootConf.</p>
-
-<h1 id="what-happened-in-the-celebration">What happened in the celebration</h1>
-
-<ul>
-<li><p>I started the event by discussing <a href="https://fedoraproject.org/wiki/Fedora_30_talking_points">talking points</a> of Fedora 30.
-When I reached changes in security, questions started coming it. Thankfully we
-had a Gluster Engineer who works a lot around libcrypt and he was able to drive
-the discussion into a very productive one.</p></li>
-
-<li><p><a href="https://fedoraproject.org/wiki/User:Sinnykumari">Sinny</a> spoke and showed demo of SilverBlue. We had so many question it
-lasted for an hour.</p></li>
-
-<li><p>[Anuj] and I discussed Fedora Summer Coding programs and did an unofficial
-call for mentors in case there is something that they wish for Fedora and
-want to make it a success by taking it on their own. :P (focus on unofficial)</p></li>
-</ul>
-
-<p>Thanks to <a href="https://fedoraproject.org/wiki/User:Bex">Bex</a> for sending us a good amount of Swag that made the participants
-(and me :P) super happy. Followed by swag distribution, we cut the cake (cut by a user who has promised that he will contribute the
-package he is facing issues into by doing update testing).
-Cake, Swag and cherry on top we had burgers for everyone. It was an wonderful
-and a successful event.</p>
-
-<p>Post food and networking, I showed how to test packages to Digganta (The guy
-who cut the cake).
-We called off the event by 06:00 pm. A good 4 hours of users/contributions
-meeting was amazing to see!</p>
-
-<p>Thanks to all the participants, and Red Hat Bangalore site managers to  provide
-us the venue and snacks.</p>
-
-<p><a href="https://fedoraproject.org/wiki/User:Sumantrom">Sumantro</a> was missed.</p>
-
-<p>A rather short report, now enjoy some pictures <a href="https://photos.app.goo.gl/Lnr78rGmLXiqTBzB9">here</a></p>
-]]></content>
-		</item>
-		
-		<item>
-			<title>Flock2018</title>
-			<link>http://vsiddhar.me/posts/flock_blog/</link>
-			<pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
-			
-			<guid>http://vsiddhar.me/posts/flock_blog/</guid>
-			<description>WOW! What an experience it was to meet all the people I have been knowing through IRC..faceless people with random nick that has nothing to do with their name.. but brilliant minds who make a very open, inclusive, welcoming and a powerful project possible!
+  <channel>
+    <title>Posts on SiddharthVipul</title>
+    <link>http://vsiddhar.me/posts/</link>
+    <description>Recent content in Posts on SiddharthVipul</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://vsiddhar.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GCI mentor&#39;s summit @ Google headquarters</title>
+      <link>http://vsiddhar.me/2019/gci_mentors_summit/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://vsiddhar.me/2019/gci_mentors_summit/</guid>
+      <description>Context Google Code-in is a contest to introduce pre-university students (ages 13-17) to open source software development. Since 2010, 8,108 students from 107 countries have completed over 40,100 open source tasks Because Google Code-in is often the first experience many students have with open source, the contest is designed to make it easy for students to jump right in. I was one of the mentors in this first time for Fedora program.</description>
+    </item>
+    
+    <item>
+      <title>Fedora 30 Release Party Event Report</title>
+      <link>http://vsiddhar.me/2019/fedora_30_release_party/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://vsiddhar.me/2019/fedora_30_release_party/</guid>
+      <description>Context Celebrating Fedora Release Party is now a custom in Bangalore. This time, although late, we organized it in Red Hat Banglaore Engineering office. We were expecting 30 people to attend the party and we received a fairly good response with ~25 people on and off. Some came for SilverBlue, some to install Fedora 30 and some wanted to know more about the 31 changesets. It was a rather successful event considering it was a working day AND RootConf was at the same $day:time on a different part of city.</description>
+    </item>
+    
+    <item>
+      <title>Flock2018</title>
+      <link>http://vsiddhar.me/2018/flock_blog/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://vsiddhar.me/2018/flock_blog/</guid>
+      <description>WOW! What an experience it was to meet all the people I have been knowing through IRC..faceless people with random nick that has nothing to do with their name.. but brilliant minds who make a very open, inclusive, welcoming and a powerful project possible!
  This was my first Flock and It has been the best conference/event I have ever attended.
  Unlike other conferences where there are a lot of people presenting their own project and are distributed in groups, everyone in the Flock was connected to a single string, Fedora!</description>
-			<content type="html"><![CDATA[
-
-<h1 id="wow">WOW!</h1>
-
-<p>What an experience it was to meet all the people I have been knowing
-through IRC..faceless people with random nick that has nothing to do with
-their name.. but brilliant minds who make a very open, inclusive, welcoming
-and a powerful project possible!</p>
-
-<blockquote>
-<p>This was my first Flock and It has been the best conference/event I have ever attended.</p>
-</blockquote>
-
-<p>Unlike other conferences where there are a lot of people presenting their own
-project and are distributed in groups, everyone in the Flock was connected to a
-single string, Fedora!</p>
-
-<p>read for a brief summary of the event.</p>
-
-<hr />
-
-<h3 id="where">Where?</h3>
-
-<p>Radisson Blu,
-<strong>Radebeul - Dresden</strong> | Germany</p>
-
-<h3 id="when">When?</h3>
-
-<p>During the hottest time in whole Europe (which is not very bad)</p>
-
-<p><strong>August 7th</strong> to <strong>August 11th</strong></p>
-
-<hr />
-
-<h2 id="a-bit-about-the-talks-and-presentations">A bit about the talks and presentations</h2>
-
-<p>Keynote &lsquo;State of Fedora (Objectives &amp; Editions)&rsquo;
-started at 9&rsquo;o clock in which <a href="https://fedoraproject.org/wiki/User:Mattdm">Matthew
-Miller</a>, <a href="https://fedoraproject.org/wiki/User:Bex">Brian
-Exelbierd</a>,
-<a href="https://fedoraproject.org/wiki/User:Sgallagh">Stephen Gallagher</a>, <a href="https://fedoraproject.org/wiki/User:Dustymabe">Dusty Mabe</a>,
-<a href="https://fedoraproject.org/wiki/User:Pbrobinson">Peter Robinson</a> and <a href="https://fedoraproject.org/wiki/User:Langdon">Langdon White</a>
-presented
- * stats, successes, ups, and downs of the Fedora Project.
- * About Flock and it&rsquo;s value.
- * About SIGs
- * where as a community we stand and the areas we need to improve.</p>
-
-<p>Combined, a very insightful and informative presentation.</p>
-
-<p>I tried to attend as many talks/workshops as possible still keeping some time
-in hand to meet those amazing people in person and discuss a few ideas (or at
-least share a handshake).
-Every talk was full of discussion. The Attendees
-were not just there to listen and take notes, but to provide their input which
-I have never seen anywhere else.
-So many planning meetings, SIGs gathering and a lot of snacks during the tea
-break (thanks ARM for sponsoring it) made it a perfect event.</p>
-
-<p><strong>My schedule</strong>: <a href="https://flock2018.sched.com/siddharthvipul1">https://flock2018.sched.com/siddharthvipul1</a></p>
-
-<h2 id="other-stuff">Other stuff</h2>
-
-<p>Flock didn&rsquo;t just involved talks and knowledge sharing, but also candies.
-Credit goes to Justin for organizing the International candy swap event.
-Everyone brought what they thought authentic and local from their country
-including some weird ones to have fun. well,
-the weird credit goes to Göran and me. TBH what I took (Pulse candy) was
-not really weird, but like Indians, not everyone likes spices in their candy.
-Oh wait, this doesn&rsquo;t mean that the candy that Göran brought wasn&rsquo;t weird&hellip; It
-was scary! But that&rsquo;s what made the event even more memorable. We had a lot of
-fun making people try it and waiting for their reaction.</p>
-
-<p>Amazing <a href="https://twitter.com/DomiBula">Dominika Bula</a> had organised a scavenzer hunt for us which was
-designed to make us explore the city center .</p>
-
-<p>Then we went to Roller Coaster Restaurant which was different, thus awesome!
-Other fun things like game night, karaoke event, and eating everyday out with
-others, going for a walk in a biiiig group, laughing and enjoying (/me cries
-and gets nostalgic)</p>
-
-<p>It was an experience that no one can say no to. I am definfitly loolking
-forward to attend more of such events.</p>
-
-<blockquote>
-<p>Thank you Fedora for sponsoring my trip :)</p>
-</blockquote>
-]]></content>
-		</item>
-		
-		<item>
-			<title>websiteInfo</title>
-			<link>http://vsiddhar.me/posts/websiteinfo/</link>
-			<pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
-			
-			<guid>http://vsiddhar.me/posts/websiteinfo/</guid>
-			<description>Let&amp;rsquo;s discuss vsiddhar.me I have been suggested multiple time to manage a blog, share my stories, events and ideas, but as being a &amp;lsquo;Pro&amp;rsquo; procrastinator, I haven&amp;rsquo;t run from my responsibilities and thus, haven&amp;rsquo;t done the right thing! Sadly, this changes now. I have decided to manage this colorless website (Hugo+Coder, as it requires ~no effort). If I am alive and in right sense, I will be putting at least one post every week month.</description>
-			<content type="html"><![CDATA[
-
-<h1 id="let-s-discuss-vsiddhar-me">Let&rsquo;s discuss vsiddhar.me</h1>
-
-<p>I have been suggested multiple time to manage a blog, share my stories, events
-and ideas, but as being a &lsquo;Pro&rsquo; procrastinator, I haven&rsquo;t run from my
-responsibilities and thus, haven&rsquo;t done the right thing! Sadly, this changes now.
-I have decided to manage this colorless website (Hugo+Coder, as it requires ~no
-effort). If I am alive and in right sense, I will be putting at least one post
-every <s>week</s> month.</p>
-
-<p>It&rsquo;s a small/slow target but for now let&rsquo;s not promise the mountain.
-Ideally, I should have migrated my previous blogs, but they are full of color
-and also don&rsquo;t make a lot of sense. I have recently (very recently) joined
-Fedora Core Engineering (Platform Team) and will be working on CentOS CI, Fedora CI and a bit of
-other stuff which I haven&rsquo;t figured out yet.</p>
-
-<p>Most probably this will be updates of my work, few exciting news or small
-reads/interesting knowledge sharing platform.</p>
-
-<p>So, keep in touch, I might add some way of notifying people (no promises) or I
-might just keep it as my diary (open).</p>
-
-<p>A formal ending with a formal Thank you!</p>
-]]></content>
-		</item>
-		
-	</channel>
+    </item>
+    
+    <item>
+      <title>websiteInfo</title>
+      <link>http://vsiddhar.me/2018/websiteinfo/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://vsiddhar.me/2018/websiteinfo/</guid>
+      <description>Let&amp;rsquo;s discuss vsiddhar.me I have been suggested multiple time to manage a blog, share my stories, events and ideas, but as being a &amp;lsquo;Pro&amp;rsquo; procrastinator, I haven&amp;rsquo;t run from my responsibilities and thus, haven&amp;rsquo;t done the right thing! Sadly, this changes now. I have decided to manage this colorless website (Hugo+Coder, as it requires ~no effort). If I am alive and in right sense, I will be putting at least one post every week month.</description>
+    </item>
+    
+  </channel>
 </rss>
